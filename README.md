@@ -1,3 +1,3 @@
 # frontend-nanodegree-resume-master
 a resume created by jQuery etc.
-https://raw.githubusercontent.com/vfeirv/frontend-nanodegree-resume-master/master/images/Resume.png
+https://github.com/vfeirv/frontend-nanodegree-resume-master/raw/images/Resume.png
