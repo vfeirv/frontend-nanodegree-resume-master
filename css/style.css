@@ -175,6 +175,9 @@ span {
   text-align: center;
 }
 
+.pro-image {
+  text-align: center;
+}
 /* Media queries to handle various device widths */
 
 @media only screen and (max-width: 1024px) {
@@ -200,22 +203,26 @@ span {
     display: none;
   }
 }
+  .orange-text {
+    text-align: left;
+  }
+  #map {
+    display: block;
+    height: 100%;
+    margin: 0 5%;
+  }
 
-#map {
-  display: block;
-  height: 100%;
-  margin: 0 5%;
-}
+  #mapDiv {
+    height: 400px;
+    width: 100%;
+    padding-bottom: 5%;
+  }
 
-#mapDiv {
-  height: 400px;
-  width: 100%;
-  padding-bottom: 5%;
-}
+@media only screen and (min-width: 450px) {
 
-@media only screen and (min-width: 750px) {
   #skills-h3,
   .biopic {
     display: block;
   }
+
 }
